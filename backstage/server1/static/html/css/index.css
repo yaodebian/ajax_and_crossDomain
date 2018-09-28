@@ -1,0 +1,31 @@
+header {
+  text-align: center;
+}
+section {
+  width: 80%;
+  margin: 0 auto;
+}
+.ajaxTip {
+  display: flex;
+}
+.ajaxTip>h2 {
+  font-size: 20px;
+  height: 30px;
+  line-height: 30px;
+  margin: 0;
+}
+.ajaxTip>p {
+  font-size: 16px;
+  padding: 7px 5px;
+  background: pink;
+  border-radius: 2px;
+  margin: 0;
+  cursor: pointer;
+}
+.ajaxRes {
+  margin: 5px;
+  width: 400px;
+  height: 200px;
+  border: 1px solid #666;
+  border-radius: 3px;
+}
